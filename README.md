@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gaia 👋
 
-<!--
-**gaiamugliaa/gaiamugliaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm pursuing a Master's degree in Computer Engineering at the University
+of Calabria (UNICAL), with a focus on Artificial Intelligence and Machine
+Learning.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in how machine learning can help us make sense of data.
+I enjoy working through the whole process, from understanding a dataset
+to testing different approaches and explaining what the results tell us.
+
+## How I like to work
+
+I enjoy taking on problems that make me learn something new. In a team,
+I like asking questions, sharing what I figure out, and working together
+to turn an idea into something we can test and improve.
